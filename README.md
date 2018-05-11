@@ -8,7 +8,7 @@ What is a module and what problem does it solve?
 * theres some on thev internet
 * modules are accessed through js objects
 
-* organoze 
+* organize 
 * responsibility and architechture
 * reusability
 
@@ -32,6 +32,11 @@ mocha is a BDD style test framework for node. it allows us to write unit tests.
 
 - install using `npm install --save-dev mocha`
 - run tests using `./node_modules/mocha/bin/mocha`
+
+## Links
+
+https://www.npmjs.com/package/left-pad
+https://mochajs.org/
 
 ---
  
